@@ -1,0 +1,10 @@
+Package: mimosa
+Title: Package developed to learn "how to build package""
+Version: 0.0.0.9000
+Authors@R: person("Aadish", "Chopra", email = "aadishchopra16@gmail.com", role = c("aut", "cre"))
+Description: This package is built for learning purposes.
+Depends: R (>= 3.5.2)
+License: MIT 
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
